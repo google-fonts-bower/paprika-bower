@@ -1,0 +1,17 @@
+{
+    "name": "paprika-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Eduardo Tunni"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/paprika-bower.git"
+    },
+    "description": "Paprika font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
